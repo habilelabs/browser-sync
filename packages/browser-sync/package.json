@@ -62,7 +62,7 @@
     "server-destroy": "1.0.1",
     "socket.io": "2.1.1",
     "ua-parser-js": "0.7.17",
-    "yargs": "6.4.0"
+    "yargs": "https://github.com/habilelabs/yargs.git"
   },
   "devDependencies": {
     "@types/node": "8",
