@@ -30,13 +30,13 @@
     "stream-throttle": "^0.1.3"
   },
   "devDependencies": {
-    "angular": "~1.4.8",
+    "angular": "^1.8.0",
     "angular-route": "~1.4.8",
     "angular-sanitize": "~1.4.8",
     "angular-touch": "~1.4.8",
     "chai": "^3",
     "compression": "^1",
-    "crossbow": "^4.3.3",
+    "crossbow": "^4.3.4",
     "easy-svg": "2.0.0",
     "eazy-logger": "^3",
     "jshint": "^2.8.0",
